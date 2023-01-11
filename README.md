@@ -1,6 +1,29 @@
-# React-Portfolio# Getting Started with Create React App
+# 1: Project Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Random-Password
+
+## INTRODUCTION
+---------------
+This work in progress will be my professional development portfolio, created using React. 
+
+## REQUIREMENTS
+--------------
+N/A
+
+
+## FUNCTIONALITY
+----------------
+Functionality is still in its early stages--the end result will have a responsive UI and show off my favorite projects. The user will be able to click on links of my completed projects and be redirected to their deployment pages. 
+
+## MAINTAINER
+-------------
+Gus Lascola - https://github.com/August-Lascola
+
+
+
+# 2: React-Portfolio# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
 
@@ -68,3 +91,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
